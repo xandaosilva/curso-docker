@@ -4,3 +4,15 @@ idade: 29
 objeto:
   versao: 2
   arquivo: "teste.txt"
+
+versao: 2
+versao_completa: 3.14
+
+string_sem_aspas: Digite um texto aqui
+string_com_aspas: "Digite um texto aqui"
+primeiro_valor_nulo: ~
+segundo_valor_nulo: null
+primeiro_valor_verdadeiro: True
+segundo_valor_verdadeiro: On
+primeiro_valor_falso: False
+segundo_valor_falso: Off
