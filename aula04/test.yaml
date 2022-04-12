@@ -1,2 +1,6 @@
 nome: "Alexandre"
 idade: 29
+# Adicionando comentário
+objeto:
+  versao: 2
+  arquivo: "teste.txt"
